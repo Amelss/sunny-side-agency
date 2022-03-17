@@ -16,8 +16,8 @@ module.exports = {
       },
       fontFamily: {
         barlow: "Barlow",
-        fraunces: "Fraunces",
-      },
+        fraunces: "Fraunces"
+      }
     },
   },
   plugins: [],

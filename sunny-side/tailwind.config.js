@@ -14,6 +14,10 @@ module.exports = {
         softYellow: "#fad400",
         softRed: "#fe7867",
       },
+      fontFamily: {
+        barlow: "Barlow",
+        fraunces: "Fraunces",
+      },
     },
   },
   plugins: [],

@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
       colors: {
@@ -16,8 +16,8 @@ module.exports = {
       },
       fontFamily: {
         barlow: "Barlow",
-        fraunces: "Fraunces"
-      }
+        fraunces: "Fraunces",
+      },
     },
   },
   plugins: [],

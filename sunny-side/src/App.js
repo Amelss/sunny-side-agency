@@ -3,9 +3,9 @@ import Body from "./Components/Body";
 
 function App() {
   return (
-    <div className="grid">
+    <div className="">
       <Header />
-      <div className="grid-cols-1 xl:grid-cols-2">
+      <div className="">
         <Body />
       </div>
     </div>

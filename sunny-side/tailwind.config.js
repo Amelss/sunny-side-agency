@@ -13,6 +13,7 @@ module.exports = {
         desCyan: "#25564b",
         softYellow: "#fad400",
         softRed: "#fe7867",
+        middleBlueGreen: "#8BD1C3",
       },
       fontFamily: {
         barlow: "Barlow",

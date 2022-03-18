@@ -27,14 +27,14 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop
-![](desktop-screenshot.ppg)
 
-Mobile
-![](mobile-screenshot.ppg)
+![Desktop](.desktop-screenshot.ppg)
 
-Tablet
-![](tablet-screenshot.ppg)
+
+![Mobile](.mobile-screenshot.ppg)
+
+
+![Tablet](.tablet-screenshot.ppg)
 
 
 

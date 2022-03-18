@@ -46,9 +46,9 @@ export default function Header() {
           </div>
           <h1 className='font-fraunces text-white text-[50px] uppercase font-bold text-center tracking-widest'>We are creatives</h1>
           <img src="./images/icon-arrow-down.svg" alt="arrow" className='mx-auto mt-10 pt-10' />
-          <div className='grid grid-cols-1 lg:grid-cols-2'>
-            <img src="./images/mobile/image-header.jpg" alt="orange" className='absolute top-0 -z-10  lg:hidden' />
-              <img src="./images/desktop/image-header.jpg" alt="orange" className='hidden lg:block absolute top-0 -z-10 col-span-2' />
+          <div className='grid grid-cols-1 lg:grid-cols-2 grid-row-auto'>
+            <img src="./images/mobile/image-header.jpg" alt="orange" className='absolute top-0 -z-10 h-[600px] lg:hidden' />
+              <img src="./images/desktop/image-header.jpg" alt="orange" className='hidden lg:block absolute top-0 -z-10 col-span-2 ' />
               
           </div>
       </div>

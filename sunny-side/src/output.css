@@ -588,6 +588,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-top: -12rem;
 }
 
+.mt-28{
+  margin-top: 7rem;
+}
+
+.mt-32{
+  margin-top: 8rem;
+}
+
 .flex{
   display: flex;
 }
@@ -1084,6 +1092,16 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(37 86 75 / var(--tw-text-opacity));
 }
 
+.text-softRed{
+  --tw-text-opacity: 1;
+  color: rgb(254 120 103 / var(--tw-text-opacity));
+}
+
+.text-modCyan{
+  --tw-text-opacity: 1;
+  color: rgb(69 140 126 / var(--tw-text-opacity));
+}
+
 @media (min-width: 768px){
   .md\:-top-0{
     top: -0px;
@@ -1143,6 +1161,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
   .md\:grid-cols-3{
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-4{
+    grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
   .md\:px-10{
@@ -1387,6 +1409,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
   .xl\:-mt-48{
     margin-top: -12rem;
+  }
+
+  .xl\:block{
+    display: block;
   }
 
   .xl\:flex{

@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Body() {
   return (
-    <div className="grid grid-cols-1 mt-24 md:grid-cols-2 auto-rows-auto md:mt-8 lg:mt-40 xl:mt-96 pt-10 w-full 2xl:pt-72 2xl:mt-44">
+    <div className="grid grid-cols-1 mt-32 md:grid-cols-2 auto-rows-auto md:mt-8 lg:mt-40 xl:mt-96 pt-10 w-full 2xl:pt-72 2xl:mt-44">
       {/* ---------- TRANSFORM YOUR BRAND ------------ */}
       <img
         src="./images/mobile/image-transform.jpg"

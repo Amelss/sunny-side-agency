@@ -78,7 +78,7 @@ export default function Body() {
           className="hidden md:flex w-full"
         />
         <div className="-mt-48 pb-14 px-4 text-center md:-mt-36 lg:-mt-40 xl:-mt-48">
-          <h1 className="pb-3 font-fraunces font-bold text-desBlue text-2xl">
+          <h1 className="pb-3 font-fraunces font-bold text-desCyan text-2xl">
             Graphic Design
           </h1>
           <p className="text-desBlue leading-7 font-barlow xl:px-32">
@@ -102,7 +102,7 @@ export default function Body() {
         />
 
         <div className="-mt-48 pb-14 px-4 text-center md:-mt-36 lg:-mt-40 xl:-mt-48">
-          <h1 className="pb-3 font-fraunces font-bold text-desBlue text-2xl">
+          <h1 className="pb-3 font-fraunces font-bold text-desCyan text-2xl">
             Photography
           </h1>
           <p className="text-desBlue leading-7 font-barlow xl:px-32 ">

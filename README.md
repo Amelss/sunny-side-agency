@@ -28,13 +28,13 @@ Users should be able to:
 ### Screenshot
 
 Desktop
-![](./images/desktop-screenshot.ppg)
+![](desktop-screenshot.png)
 
 Mobile
-![](./images/mobile-screenshot.ppg)
+![](mobile-screenshot.png)
 
 Tablet
-![](./images/tablet-screenshot.ppg)
+![](tablet-screenshot.png)
 
 
 

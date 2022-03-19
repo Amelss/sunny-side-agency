@@ -9,6 +9,9 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
+      - [Desktop](#desktop)
+      - [Mobile](#mobile)
+      - [Tablet](#tablet)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -27,13 +30,16 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop
+#### Desktop
+
 ![](desktop-screenshot.png)
 
-Mobile
+#### Mobile
+
 ![](mobile-screenshot.png)
 
-Tablet
+#### Tablet
+
 ![](tablet-screenshot.png)
 
 
@@ -42,8 +48,8 @@ Tablet
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/sunny-side-agency-landing-page-in-react-tailwind-and-css-grid-4ljbDyx2h)
+- Live Site URL: [Netlify](https://fm-sunny-side-agency.netlify.app/)
 
 ## My process
 

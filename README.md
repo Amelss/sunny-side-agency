@@ -33,11 +33,11 @@ Users should be able to:
 
 
 
-#### Mobile
+#### Desktop
 ![](desktop-screenshot.png)
 
 
-#### Desktop
+#### Mobile
 
 ![](mobile-screenshot.png)
 

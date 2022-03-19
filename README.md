@@ -9,8 +9,8 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
-      - [Desktop](#desktop)
       - [Mobile](#mobile)
+      - [Desktop](#desktop)
       - [Tablet](#tablet)
     - [Links](#links)
   - [My process](#my-process)
@@ -33,11 +33,11 @@ Users should be able to:
 
 
 
-#### Desktop
+#### Mobile
 ![](desktop-screenshot.png)
 
 
-#### Mobile
+#### Desktop
 
 ![](mobile-screenshot.png)
 
